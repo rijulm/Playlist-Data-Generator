@@ -1,0 +1,264 @@
+Can you play {lizzo|artist}’s song?
+Can you play {juice|song_name}? 
+Could I add {juice|song_name} to the playlist?
+{juice|song_name} is great! Could you play it later?
+can you play {happy|song_name} by {Pharrell Williams|artist}?
+can you add {memories|song_name} by {maroon 5|artist}?
+i want to hear {phillip phillips|artist} {home|song_name}
+i wanna hear {good as hell|song_name}
+can you play {ready for it|song_name} by {taylor swift|artist}
+play {if i can't have you|song_name} {next|sys_ordinal}
+please add {good as hell|song_name} to the playlist
+i hope you play {i like me better|song_name} soon
+please play {don't start now|song_name} by {dua lipa|artist}
+won't you play {i don't care|song_name} from {justin bieber|artist}
+can you play that song by {sam fischer|artist}?
+will you play {sucker|song_name} by the {jonas brothers|artist}?
+request {stay|song_name} by {rihanna|artist}
+please play {love runs out|song_name} {one republis|artist}
+will you play {stupid love|song_name} by {lady gaga|artist} {next|sys_ordinal} please?
+please play {beautiful people|song_name} by {ed sheeran|artist} and {khalid|artist} {next|sys_ordinal}
+i want to hear {taylor swift|artist}'s {delicate|song_name} and {love story|song_name}
+i really like {ocean|song_name} by {mike perry|artist}. Can you play that {next|sys_ordinal}?
+play {elastic heart|song_name} by {sia|artist}
+can you add {memories|song_name} by {maroon 5|artist}?
+i want to hear {phillip phillips|artist} {home|song_name}
+i wanna hear {good as hell|song_name}
+can you play {ready for it|song_name} by {taylor swift|artist}
+play {if i can't have you|song_name} next
+please add {good as hell|song_name} to the playlist
+i hope you play {i like me better|song_name} soon
+please play {don't start now|song_name} by {dua lipa|artist}
+won't you play {i don't care|song_name} from {justin bieber|artist}
+can you play that song by {sam fischer|artist}?
+will you play {sucker|song_name} by the {jonas brothers|artist}?
+request {stay|song_name} by {rihanna|artist}
+please play {love runs out|song_name} {one republis|artist}
+will you play {stupid love|song_name} by {lady gaga|artist} next please?
+please play {beautiful people|song_name} by {ed sheeran|artist} and {khalid|artist} next
+i want to hear {taylor swift|artist}'s {delicate|song_name} and {love story|song_name}
+i really like {ocean|song_name} by {mike perry|artist}. Can you play that next?
+play {elastic heart|song_name} by {sia|artist}
+can you add {bury a friend|song_name} by {billie eillish|artist} to the list?
+hi, can you add one of {taylor swift's|artist} songs to the playlist?
+will you be playing {i'm the one|song_name} by {dj khalid|artist} any time soon?
+will you be playing {i'm the one|song_name} by {dj khalid|artist} anytime soon?
+can you add {walk me home|song_name} by {P!nk|artist} to the playlist?
+can you add {walk me home|song_name} by {P!nk|artist} to the list?
+can you add {memories|song_name} by {maroon 5|artist}?
+i want to hear {phillip phillips|artist} {home|song_name}
+i wanna hear {good as hell|song_name}
+can you play {ready for it|song_name} by {taylor swift|artist}
+play {if i can't have you|song_name} next
+please add {good as hell|song_name} to the playlist
+i hope you play {i like me better|song_name} soon
+please play {don't start now|song_name} by {dua lipa|artist}
+won't you play {i don't care|song_name} from {justin bieber|artist}
+can you play that song by {sam fischer|artist}?
+will you play {sucker|song_name} by the {jonas brothers|artist}?
+request {stay|song_name} by {rihanna|artist}
+please play {love runs out|song_name} {one republis|artist}
+will you play {stupid love|song_name} by {lady gaga|artist} next please?
+please play {beautiful people|song_name} by {ed sheeran|artist} and {khalid|artist} next
+i want to hear {taylor swift|artist}'s {delicate|song_name} and {love story|song_name}
+i really like {ocean|song_name} by {mike perry|artist}. Can you play that next?
+play {elastic heart|song_name} by {sia|artist}
+can you add {memories|song_name} by {maroon 5|artist}?
+i want to hear {phillip phillips|artist} {home|song_name}
+i wanna hear {good as hell|song_name}
+can you play {ready for it|song_name} by {taylor swift|artist}
+play {if i can't have you|song_name} {next|sys_ordinal}
+please add {good as hell|song_name} to the playlist
+i hope you play {i like me better|song_name} soon
+please play {don't start now|song_name} by {dua lipa|artist}
+won't you play {i don't care|song_name} from {justin bieber|artist}
+can you play that song by {sam fischer|artist}?
+will you play {sucker|song_name} by the {jonas brothers|artist}?
+request {stay|song_name} by {rihanna|artist}
+please play {love runs out|song_name} {one republis|artist}
+will you play {stupid love|song_name} by {lady gaga|artist} next please?
+please play {beautiful people|song_name} by {ed sheeran|artist} and {khalid|artist} next
+i want to hear {taylor swift|artist}'s {delicate|song_name} and {love story|song_name}
+i really like {ocean|song_name} by {mike perry|artist}. Can you play that next?
+play {elastic heart|song_name} by {sia|artist}
+can you add {bury a friend|song_name} by {billie eillish|artist} to the list?
+hi, can you add one of {taylor swift's|artist} songs to the playlist?
+will you be playing {i'm the one|song_name} by {dj khalid|artist} any time soon?
+will you be playing {i'm the one|song_name} by {dj khalid|artist} anytime soon?
+can you add {walk me home|song_name} by {P!nk|artist} to the playlist?
+can you add {walk me home|song_name} by {P!nk|artist} to the list?
+can you add {memories|song_name} by {maroon 5|artist}?
+i want to hear {phillip phillips|artist} {home|song_name}
+i wanna hear {good as hell|song_name}
+can you play {ready for it|song_name} by {taylor swift|artist}
+play {if i can't have you|song_name} next
+please add {good as hell|song_name} to the playlist
+i hope you play {i like me better|song_name} soon
+please play {don't start now|song_name} by {dua lipa|artist}
+won't you play {i don't care|song_name} from {justin bieber|artist}
+can you play that song by {sam fischer|artist}?
+will you play {sucker|song_name} by the {jonas brothers|artist}?
+request {stay|song_name} by {rihanna|artist}
+please play {love runs out|song_name} {one republis|artist}
+will you play {stupid love|song_name} by {lady gaga|artist} next please?
+please play {beautiful people|song_name} by {ed sheeran|artist} and {khalid|artist} next
+i want to hear {taylor swift|artist}'s {delicate|song_name} and {love story|song_name}
+i really like {ocean|song_name} by {mike perry|artist}. Can you play that next?
+play {elastic heart|song_name} by {sia|artist}
+can you add {memories|song_name} by {maroon 5|artist}?
+i want to hear {phillip phillips|artist} {home|song_name}
+i wanna hear {good as hell|song_name}
+can you play {ready for it|song_name} by {taylor swift|artist}
+play {if i can't have you|song_name} next
+please add {good as hell|song_name} to the playlist
+i hope you play {i like me better|song_name} soon
+please play {don't start now|song_name} by {dua lipa|artist}
+won't you play {i don't care|song_name} from {justin bieber|artist}
+can you play that song by {sam fischer|artist}?
+will you play {sucker|song_name} by the {jonas brothers|artist}?
+request {stay|song_name} by {rihanna|artist}
+please play {love runs out|song_name} {one republis|artist}
+will you play {stupid love|song_name} by {lady gaga|artist} next please?
+please play {beautiful people|song_name} by {ed sheeran|artist} and {khalid|artist} next
+i want to hear {taylor swift|artist}'s {delicate|song_name} and {love story|song_name}
+i really like {ocean|song_name} by {mike perry|artist}. Can you play that next?
+play {elastic heart|song_name} by {sia|artist}
+can you add {bury a friend|song_name} by {billie eillish|artist} to the list?
+hi, can you add one of {taylor swift's|artist} songs to the playlist?
+will you be playing {i'm the one|song_name} by {dj khalid|artist} any time soon?
+will you be playing {i'm the one|song_name} by {dj khalid|artist} anytime soon?
+can you add {walk me home|song_name} by {P!nk|artist} to the playlist?
+can you add {walk me home|song_name} by {P!nk|artist} to the list?
+can you add {memories|song_name} by {maroon 5|artist}?
+i want to hear {phillip phillips|artist} {home|song_name}
+i wanna hear {good as hell|song_name}
+can you play {ready for it|song_name} by {taylor swift|artist}
+play {if i can't have you|song_name} next
+please add {good as hell|song_name} to the playlist
+i hope you play {i like me better|song_name} soon
+please play {don't start now|song_name} by {dua lipa|artist}
+won't you play {i don't care|song_name} from {justin bieber|artist}
+can you play that song by {sam fischer|artist}?
+will you play {sucker|song_name} by the {jonas brothers|artist}?
+request {stay|song_name} by {rihanna|artist}
+please play {love runs out|song_name} {one republis|artist}
+will you play {stupid love|song_name} by {lady gaga|artist} next please?
+please play {beautiful people|song_name} by {ed sheeran|artist} and {khalid|artist} next
+i want to hear {taylor swift|artist}'s {delicate|song_name} and {love story|song_name}
+i really like {ocean|song_name} by {mike perry|artist}. Can you play that next?
+play {elastic heart|song_name} by {sia|artist}
+can you add {memories|song_name} by {maroon 5|artist}?
+i want to hear {phillip phillips|artist} {home|song_name}
+i wanna hear {good as hell|song_name}
+can you play {ready for it|song_name} by {taylor swift|artist}
+play {if i can't have you|song_name} next
+please add {good as hell|song_name} to the playlist
+i hope you play {i like me better|song_name} soon
+please play {don't start now|song_name} by {dua lipa|artist}
+won't you play {i don't care|song_name} from {justin bieber|artist}
+can you play that song by {sam fischer|artist}?
+will you play {sucker|song_name} by the {jonas brothers|artist}?
+request {stay|song_name} by {rihanna|artist}
+please play {love runs out|song_name} {one republis|artist}
+will you play {stupid love|song_name} by {lady gaga|artist} next please?
+please play {beautiful people|song_name} by {ed sheeran|artist} and {khalid|artist} next
+i want to hear {taylor swift|artist}'s {delicate|song_name} and {love story|song_name}
+i really like {ocean|song_name} by {mike perry|artist}. Can you play that next?
+play {elastic heart|song_name} by {sia|artist}
+can you add {bury a friend|song_name} by {billie eillish|artist} to the list?
+hi, can you add one of {taylor swift's|artist} songs to the playlist?
+will you be playing {i'm the one|song_name} by {dj khalid|artist} any time soon?
+will you be playing {i'm the one|song_name} by {dj khalid|artist} anytime soon?
+can you add {walk me home|song_name} by {P!nk|artist} to the playlist?
+can you add {walk me home|song_name} by {P!nk|artist} to the list?
+can you add {memories|song_name} by {maroon 5|artist}?
+i want to hear {phillip phillips|artist} {home|song_name}
+i wanna hear {good as hell|song_name}
+can you play {ready for it|song_name} by {taylor swift|artist}
+play {if i can't have you|song_name} next
+please add {good as hell|song_name} to the playlist
+i hope you play {i like me better|song_name} soon
+please play {don't start now|song_name} by {dua lipa|artist}
+won't you play {i don't care|song_name} from {justin bieber|artist}
+can you play that song by {sam fischer|artist}?
+will you play {sucker|song_name} by the {jonas brothers|artist}?
+request {stay|song_name} by {rihanna|artist}
+please play {love runs out|song_name} {one republis|artist}
+will you play {stupid love|song_name} by {lady gaga|artist} next please?
+please play {beautiful people|song_name} by {ed sheeran|artist} and {khalid|artist} next
+i want to hear {taylor swift|artist}'s {delicate|song_name} and {love story|song_name}
+i really like {ocean|song_name} by {mike perry|artist}. Can you play that next?
+play {elastic heart|song_name} by {sia|artist}
+can you add {memories|song_name} by {maroon 5|artist}?
+i want to hear {phillip phillips|artist} {home|song_name}
+i wanna hear {good as hell|song_name}
+can you play {ready for it|song_name} by {taylor swift|artist}
+play {if i can't have you|song_name} next
+please add {good as hell|song_name} to the playlist
+i hope you play {i like me better|song_name} soon
+please play {don't start now|song_name} by {dua lipa|artist}
+won't you play {i don't care|song_name} from {justin bieber|artist}
+can you play that song by {sam fischer|artist}?
+will you play {sucker|song_name} by the {jonas brothers|artist}?
+request {stay|song_name} by {rihanna|artist}
+please play {love runs out|song_name} {one republis|artist}
+will you play {stupid love|song_name} by {lady gaga|artist} next please?
+please play {beautiful people|song_name} by {ed sheeran|artist} and {khalid|artist} next
+i want to hear {taylor swift|artist}'s {delicate|song_name} and {love story|song_name}
+i really like {ocean|song_name} by {mike perry|artist}. Can you play that next?
+play {elastic heart|song_name} by {sia|artist}
+can you add {bury a friend|song_name} by {billie eillish|artist} to the list?
+hi, can you add one of {taylor swift's|artist} songs to the playlist?
+will you be playing {i'm the one|song_name} by {dj khalid|artist} any time soon?
+will you be playing {i'm the one|song_name} by {dj khalid|artist} anytime soon?
+can you add {walk me home|song_name} by {P!nk|artist} to the playlist?
+can you add {walk me home|song_name} by {P!nk|artist} to the list?
+can you add {memories|song_name} by {maroon 5|artist}?
+i want to hear {phillip phillips|artist} {home|song_name}
+i wanna hear {good as hell|song_name}
+can you play {ready for it|song_name} by {taylor swift|artist}
+play {if i can't have you|song_name} next
+please add {good as hell|song_name} to the playlist
+i hope you play {i like me better|song_name} soon
+please play {don't start now|song_name} by {dua lipa|artist}
+won't you play {i don't care|song_name} from {justin bieber|artist}
+can you play that song by {sam fischer|artist}?
+will you play {sucker|song_name} by the {jonas brothers|artist}?
+request {stay|song_name} by {rihanna|artist}
+please play {love runs out|song_name} {one republis|artist}
+will you play {stupid love|song_name} by {lady gaga|artist} next please?
+please play {beautiful people|song_name} by {ed sheeran|artist} and {khalid|artist} next
+i want to hear {taylor swift|artist}'s {delicate|song_name} and {love story|song_name}
+i really like {ocean|song_name} by {mike perry|artist}. Can you play that next?
+play {elastic heart|song_name} by {sia|artist}
+can you add {memories|song_name} by {maroon 5|artist}?
+i want to hear {phillip phillips|artist} {home|song_name}
+i wanna hear {good as hell|song_name}
+can you play {ready for it|song_name} by {taylor swift|artist}
+play {if i can't have you|song_name} next
+please add {good as hell|song_name} to the playlist
+i hope you play {i like me better|song_name} soon
+please play {don't start now|song_name} by {dua lipa|artist}
+won't you play {i don't care|song_name} from {justin bieber|artist}
+can you play that song by {sam fischer|artist}?
+will you play {sucker|song_name} by the {jonas brothers|artist}?
+request {stay|song_name} by {rihanna|artist}
+please play {love runs out|song_name} {one republis|artist}
+will you play {stupid love|song_name} by {lady gaga|artist} next please?
+please play {beautiful people|song_name} by {ed sheeran|artist} and {khalid|artist} next
+i want to hear {taylor swift|artist}'s {delicate|song_name} and {love story|song_name}
+i really like {ocean|song_name} by {mike perry|artist}. Can you play that next?
+play {elastic heart|song_name} by {sia|artist}
+can you add {bury a friend|song_name} by {billie eillish|artist} to the list?
+hi, can you add one of {taylor swift's|artist} songs to the playlist?
+will you be playing {i'm the one|song_name} by {dj khalid|artist} any time soon?
+will you be playing {i'm the one|song_name} by {dj khalid|artist} anytime soon?
+can you add {walk me home|song_name} by {P!nk|artist} to the playlist?
+can you add {walk me home|song_name} by {P!nk|artist} to the list?
+can you play {rihanna|artist}'s {please don't stop the music|song_name}?
+request {only human|song_name} by {jonas brothers|artist}
+{how long|song_name} by {charlie puth|artist}
+requesting {photograph|song_name} by {ed sheeran|artist}
+play {harry styles|artist} {adore you|song_name}
+i command you play {lose you to love me|song_name} by {selena gomez|artist}
+i wanna listen to {don't|song_name} by {ed sheeran|artist}
