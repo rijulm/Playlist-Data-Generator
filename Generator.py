@@ -58,19 +58,6 @@ def final(intros , exits, song_names, artists):
 
 
 if __name__ == '__main__':
-    fileContents = readTxtFile('train.txt')
-    # print(getIntros(fileContents))
-    intros = getIntros(fileContents)
-
-    # print(getSongNames(fileContents))
-    song_names = getSongNames(fileContents)
-
-    # print(getArtists(fileContents))
-    artists = getArtists(fileContents)
-
-    # print(getExits(fileContents))
-    exits = getExits(fileContents)
-
-    final(intros, exits, song_names, artists)
+    fileContents = readTxtFile('not supported.txt')
 
 
