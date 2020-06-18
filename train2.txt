@@ -1,46 +1,183 @@
-When will {beautiful people|song_name} play?
-In how long will {don't start now|song_name} play?
-When can I expect to hear {delicate|song_name} play?
-When will {good as hell|song_name} play?
-In how long will {adore you|song_name} play?
-When can I expect to hear {beautiful people|song_name} play?
-When will {bury a friend|song_name} play?
-In how long will {ready for it|song_name} play?
-When can I expect to hear {don't|song_name} play?
-When will {i like me better|song_name} play?
-In how long will {juice|song_name} play?
-When can I expect to hear {delicate|song_name} play?
-When will {only human|song_name} play?
-In how long will {lose you to love me|song_name} play?
-When can I expect to hear {good as hell|song_name} play?
-When will {happy|song_name} play?
-In how long will {bury a friend|song_name} play?
-When can I expect to hear {beautiful people|song_name} play?
-When will {beautiful people|song_name} play?
-In how long will {delicate|song_name} play?
-When can I expect to hear {photograph|song_name} play?
-When will {home|song_name} play?
-In how long will {love story|song_name} play?
-When can I expect to hear {photograph|song_name} play?
-When will {good as hell|song_name} play?
-In how long will {don't start now|song_name} play?
-When can I expect to hear {walk me home|song_name} play?
-When will {please don't stop the music|song_name} play?
-In how long will {love runs out|song_name} play?
-When can I expect to hear {sucker|song_name} play?
-When will {beautiful people|song_name} play?
-In how long will {how long|song_name} play?
-When can I expect to hear {elastic heart|song_name} play?
-When will {adore you|song_name} play?
-In how long will {only human|song_name} play?
-When can I expect to hear {home|song_name} play?
-When will {elastic heart|song_name} play?
-In how long will {i don't care|song_name} play?
-When can I expect to hear {if i can't have you|song_name} play?
-When will {i don't care|song_name} play?
-In how long will {please don't stop the music|song_name} play?
-When can I expect to hear {lose you to love me|song_name} play?
-When will {delicate|song_name} play?
-In how long will {lose you to love me|song_name} play?
-When can I expect to hear {ready for it|song_name} play?
-
+how's the weather today   
+whats your favorite type of music   
+what is your favorite food  
+play songs from U2  
+forecast for next tuesday  
+is it going to rain?  
+what is the forecast for toronto  
+what's the weather outside  
+play the rap playlist  
+play Soft Serve by Soul Coughing.  
+play Hey Jude  
+the weather in incheon  
+show me the forecast seattle  
+is it going to be cold tomorrow  
+how 's the weather  
+are you going to be my special someone?  
+play a David Bowie song.  
+what is your favorite color?  
+what 's your favorite color  
+is it cold in in toronto  
+stop it  
+happy reggae music  
+forecast for boston  
+what will the weather be like on saturday  
+what is the forecast going to be like the city of toronto  
+play bon jovi  
+show me saturday's weather for sausalito california  
+I want some electric swing music.  
+play top songs by Drake  
+weather in montreal tomorrow  
+forecast tomorrow for rome  
+weather right now  
+check the weather in seoul  
+play the first album by The Offspring  
+what's the forecast for tomorrow night in madrid  
+play techno music  
+what is the weather forecast for today  
+forecast for geneva this week  
+can you be my boy friend?  
+what's the forecast for tomorrow morning manchester  
+Will you marry me?  
+what's your name?  
+what is the forecast for right now  
+play 90's grunge  
+what's the weather like next week  
+whats the weather  
+what's the weather in phoenix arizona right now  
+get me the forecast toronto  
+what is the weather for next week in berlin  
+what's the weather today  
+how cold is it going to be today  
+is it going to be hot tomorrow  
+play the second album by Kanye  
+whats your favorite color  
+do you love me?  
+that is a really dumb song  
+check the weather on thursday  
+play a song from the album Superunknown  
+what is the weather going to be like today  
+what can you talk about   
+I really care about you  
+I'm looking for songs by Juan Luis Guerra  
+show me the forecast  
+can you be my girl friend?  
+check the forecast for sf  
+is it hot right now in tokyo  
+play Led Zeppelin IV on shuffle  
+play some Metallica from the 90s  
+shut up  
+weather this week  
+play some ambient techno music.  
+do you love me  
+is it below freezing tomorrow  
+check the forecast for tomorrow  
+show me the weather for sf in the next 2 days  
+I have a crush on you  
+weather in new york city  
+whats the temperature  
+the weather manchester  
+is it going to be warm tomorrow  
+what's the weather this weekend  
+you hurt me  
+play the first album by the Rolling Stones.  
+what is the weather going to be like in seattle  
+get me the forecast dublin  
+kiss me  
+how hot is it right now  
+what's the temperature in seattle today  
+is it going to rain tomorrow beijing  
+what's the weather like at night  
+weather in bangkok  
+how's the weather going to be for seoul south korea  
+that is a really dumb song  
+show me the forecast san francisco  
+what do you know  
+shit shit shit shit shit shit shit  
+how hot is it today in atlanta  
+what is your favorite color  
+show me the weather for sf  
+the forecast for barcelona next wednesday  
+i want to get the weather in fahrenheit  
+what is the low tomorrow  
+what is the low tonight  
+what is the weather for this week  
+what's the weather like where you are?  
+show me the weather  
+what is the weather for seoul next week in fahrenheit  
+weather in london in c  
+what is your favorite  
+whats the weather like  
+will marry me?  
+what's the forecast right now  
+Do you love me as much as I love you?  
+how cold is it right now in berlin  
+will you love me?  
+show me the weather in the evening  
+what's the weather like in the morning  
+show me the weather for sf for next tuesday  
+what is the forecast for today  
+how likely is it going to rain today  
+I want to marry you  
+how hot will it get next week  
+check the weather on wednesday  
+what will the weather be like tonight  
+check the forecast for seoul next week  
+will you marry me  
+i am so bored  
+Simon and Garfunkel  
+play tracks by Eminem  
+why do you  
+whats MindMeld?  
+play some music  
+what's my timezone in oklahoma?  
+what is MindMeld?  
+is god real?  
+are you a man?  
+do you like me  
+how old are you?  
+is this AI?  
+the weather right now  
+I want some party music  
+forecast for next friday  
+is it clear skies out  
+play Misty for me  
+what is the weather like this week  
+check the weather on saturday  
+mellow studying music  
+what's the weather right now  
+whats the weather like  
+where do you live  
+play some relaxing music.  
+are you a human or a machine?  
+you are not making sense  
+Halloween music.  
+the forecast for right now  
+show me the forecast for tomorrow morning   
+who made you?  
+forecast next week for seattle washington  
+is it going to rain today  
+what's the weather like in toronto  
+what is the weather for mexico city on monday in fahrenheit  
+the forecast for the next 6 days  
+are you a person?  
+show me the weather for sf in the next 3 days  
+is it snowing in toronto  
+what is the low tonight in london ontario  
+Don't save her by J. Cole  
+what's the temperature today?  
+do you eat  
+can you play some music?  
+play some music  
+play Adele's newest album  
+play Drake's latest song  
+weather bangalore  
+show me the forecast for tomorrow  
+is it raining today  
+do you know how's the weather today  
+are you a human or a bot  
+play alternative music.  
+play some gangster rap  
+what do you know  
+is this some sort of AI bot or something?  
+play some early Radiohead.  

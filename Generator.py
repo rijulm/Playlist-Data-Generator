@@ -59,5 +59,9 @@ def final(intros , exits, song_names, artists):
 
 if __name__ == '__main__':
     fileContents = readTxtFile('not supported.txt')
+    file = open('train2.txt', 'a')
+    for word in fileContents:
+        if 'xxx' in word:
+            file.write(word + '\n')
 
 
