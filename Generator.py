@@ -1,6 +1,8 @@
 # file to analyse text file and generate test data
 # rijul 25/4/20
 import re
+import pandas
+
 
 def readTxtFile(name):
     # function to read the text file and return an array with all of it 
@@ -56,12 +58,16 @@ def final(intros , exits, song_names, artists):
         if i%2==0:
             print(random.choice(intros) + random.choice(song_names) + " by " + random.choice(artists) + random.choice(exits))
 
+# adding further support for reading from the csv file and generating a dictionary and array
+def csvToList(fileName):
+    csvfile = pandas.read_csv(fileName)
+    finalDict = {}
+    for i in range(len(csvfile)):
+        if csvfile['country'][i] == "United States":
+            finalDict[csvfile['name'][i]] = ""
+    print(finalDict)
 
 if __name__ == '__main__':
-    fileContents = readTxtFile('not supported.txt')
-    file = open('train2.txt', 'a')
-    for word in fileContents:
-        if 'xxx' in word:
-            file.write(word + '\n')
+    csvToList('cities.csv')
 
 
