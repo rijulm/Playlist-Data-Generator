@@ -68,6 +68,6 @@ def csvToList(fileName):
     print(finalDict)
 
 if __name__ == '__main__':
-    csvToList('cities.csv')
+    csvToList('mn cities.csv')
 
 
